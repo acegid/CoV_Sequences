@@ -1,2 +1,2 @@
 # CoV_Sequences
-COVID-19 single genome from Nigeria
+SARS-CoV-2 genome from Nigeria
